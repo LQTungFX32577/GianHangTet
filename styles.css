@@ -47,7 +47,7 @@
   }
   
   .product-item {
-    background-color: white;
+    background: linear-gradient(90deg, #ff5f6d, #ffc371);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 20px;
     width: 30%;
